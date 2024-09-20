@@ -1,7 +1,7 @@
 
 ---
 
-# Project Name
+# LLaMa-3-RAG-PDF
 
 This repository contains a Streamlit-based web application for interacting with machine learning models and vector databases.
 
