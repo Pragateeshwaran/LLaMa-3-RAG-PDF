@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+pytorch        # If you're using PyTorch in your models
+tensorflow     # If you're using TensorFlow in your models
+faiss-cpu      # If you're using FAISS for vector similarity search
+sentence-transformers  # If you're using pre-trained models for vector embeddings
